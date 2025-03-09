@@ -1,8 +1,6 @@
-#ifndef Caracter_H
-#define Caracter_H
+#pragma once
 
 #include <string>
-
 
 class Caracter{
 
@@ -28,6 +26,3 @@ public:
         void setEscudo(double escudo);
 
 };
-
-
-#endif
